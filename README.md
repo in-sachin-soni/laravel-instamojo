@@ -7,4 +7,10 @@ This note will be removed once the author has completed the development of this 
 Thank you for reading this note!
 
 ### Installation Guide:
-To add database tables run below command in main root<pre>php artisan migrate</pre>
+Install via Composer:
+<pre>composer require ilyaskazi/laravel-instamojo</pre>
+
+To add database tables run the below migration command in main root<pre>php artisan migrate</pre>
+
+### License:
+Laravel-Instamojo is open-sourced software licensed under the <a href='https://github.com/ilyaskazi/laravel-instamojo/blob/master/LICENSE'>MIT license</a>
