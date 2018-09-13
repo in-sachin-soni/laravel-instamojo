@@ -1,0 +1,26 @@
+{
+    "name": "ilyaskazi/laravel-instamojo",
+    "description": "Laravel 5 Package for InstaMojo Payment Gateway",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ilyas Kazi",
+            "email": "ilyaskazi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "IlyasKazi\\Instamojo\\InstamojoServiceProvider"
+            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "IlyasKazi\\Instamojo\\": "src/"
+        }
+    },
+    "require": {}
+}
