@@ -2,8 +2,9 @@
     "name": "ilyaskazi/laravel-instamojo",
     "description": "Laravel 5 Package for InstaMojo Payment Gateway",
     "keywords": ["laravel", "instamojo", "payment gateway"],
-    "type": "library",
+    "type": "package",
     "license": "MIT",
+    "version": "v1.0",
     "authors": [
         {
             "name": "Ilyas Kazi",
