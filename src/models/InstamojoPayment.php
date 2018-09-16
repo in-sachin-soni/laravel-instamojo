@@ -21,7 +21,7 @@ class InstamojoPayment extends Model
      *
      * @var array
      */
-    protected $fillable = ['user_id','buyer_email','buyer_name','buyer_phone','currency','amount','fees','longurl','payment_id', 'payment_request_id','purpose','shorturl','request_status','payment_status','created_by'];
+    protected $fillable = ['user_id','buyer_email','buyer_name','buyer_phone','currency','amount','unit_price', 'fees','longurl','payment_id', 'payment_request_id','purpose','shorturl','request_status','payment_status', 'affiliate_commission', 'instrument_type', 'billing_instrument', 'created_by'];
     
     
     /**

@@ -1,10 +1,6 @@
-<?php
+<?php namespace IlyasKazi\Instamojo;
 
-namespace IlyasKazi\Instamojo;
-
-use Illuminate\Support\ServiceProvider;
-
-class InstamojoServiceProvider extends ServiceProvider
+class InstamojoServiceProvider extends \Illuminate\Support\ServiceProvider
 {
     /**
     * Bootstrap services.

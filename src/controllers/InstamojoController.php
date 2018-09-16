@@ -8,6 +8,7 @@ use App\Http\Controllers\Controller;
 
 use App\User;
 use IlyasKazi\Instamojo\Models\InstamojoPayment;
+use IlyasKazi\Instamojo\Models\InstamojoRefund;
 
 class InstamojoController extends Controller
 {
