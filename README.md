@@ -10,7 +10,7 @@
 # Laravel-Instamojo
 Laravel 5 Package for InstaMojo Payment Gateway
 
-- Create your account at <a href='https://imjo.in/PX47Ph' target='_blank'>InstaMojo</a>. <small>(Ignore this if you already have the account ready.)</small>
+- Create your account at <a href='https://www.instamojo.com/?referrer=client&partner_id=1417f01e7604490087c35aca3cc18581&invite_code=ILYASKAZI95f4' target='_blank'>InstaMojo</a>. <small>(Ignore this if you already have the account ready.)</small>
 - Once your account is ready follow the below guides.
 
 ### Installation Guide:
