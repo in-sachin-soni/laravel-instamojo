@@ -16,7 +16,7 @@ Laravel 5 Package for InstaMojo Payment Gateway
 ### Installation Guide:
 
 Install via Composer:
-<pre>composer require in-sachin-soni/laravel-instamojo</pre>
+<pre>composer require ilyaskazi/laravel-instamojo</pre>
 
 Then run the below migration command in main root to add tables<pre>php artisan migrate</pre>
 
